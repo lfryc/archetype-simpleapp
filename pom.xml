@@ -125,9 +125,9 @@
     </profiles>
 
     <scm>
-        <connection>scm:git:git://github.com/richfaces/showcase.git</connection>
-        <developerConnection>scm:git:git@github.com:richfaces/showcase.git</developerConnection>
-        <url>https://github.com/richfaces/showcase</url>
+        <connection>scm:git:git://github.com/richfaces/archetype-simpleapp.git</connection>
+        <developerConnection>scm:git:git@github.com:richfaces/archetype-simpleapp.git</developerConnection>
+        <url>https://github.com/richfaces/archetype-simpleapp</url>
     </scm>
 </project>
 
