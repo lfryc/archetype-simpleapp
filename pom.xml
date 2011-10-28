@@ -13,7 +13,7 @@
     <groupId>org.richfaces.archetypes</groupId>
     <artifactId>richfaces-archetype-simpleapp</artifactId>
     <packaging>maven-archetype</packaging>
-    <name>RichFaces Archetypes Simple Application</name>
+    <name>RichFaces Archetype: Simple Application</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
